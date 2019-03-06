@@ -1,4 +1,4 @@
-package com.dianjue.order.controller;
+
 
 public class SnowFlake {
 
