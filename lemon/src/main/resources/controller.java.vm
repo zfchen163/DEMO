@@ -3,8 +3,7 @@ package ${package.Controller};
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
-import com.dianjue.commonutils.enumutils.SysResponseEnum;
-import com.dianjue.commonutils.responseinfo.ResponseData;
+
 import io.swagger.annotations.ApiImplicitParam;
 import io.swagger.annotations.ApiImplicitParams;
 import io.swagger.annotations.ApiOperation;
